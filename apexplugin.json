@@ -13,6 +13,7 @@
    "commercial": "No",
    "commercially_supported": "Yes",
    "homepage": "https://www.plug-ins-pro.com/",
+   "alternate_download_url": "https://www.plug-ins-pro.com/",
    "bugs": {
       "url": "https://github.com/plug-ins-pro/text_snippet_expand/issues",
       "email": "info@plug-ins-pro.com"
